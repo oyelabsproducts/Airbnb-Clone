@@ -53,9 +53,6 @@ Let people explore the app before launch. Allowing potential hosts and guests to
 
 ---
 
-So, what are you waiting for? Launch your **Airbnb clone in 7 days** with full customization and take your first step into the vacation rental business. Connect hosts and travelers, manage listings effortlessly, and start building a modern rental platform that works from day one!
-
-
 ## 🌐 Source
 
 - [Oyelabs.com – Airbnb Clone | Launch Your Own Rental Booking Platform](https://oyelabs.com/airbnb-clone/)
