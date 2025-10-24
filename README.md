@@ -25,9 +25,9 @@ Airbnb started in 2008 as a simple idea: let people rent out extra space in thei
 
 Thinking about stepping into this space yourself? Building an [Airbnb clone](https://oyelabs.com/airbnb-clone/) can help you launch faster, giving travelers and hosts a smooth, modern platform to connect. Here’s a guide to help you understand what your app should do and how to set it up.
 
-### 1. What Your Airbnb Clone Does
+### 1. Understanding the Airbnb Clone App
 
-Your Airbnb clone lets property owners list their spaces: homes, apartments, or rooms while travelers can search, book, and manage stays easily. The admin panel gives you full control over listings, bookings, users, and payments, keeping your business organized and efficient.
+Start by getting familiar with your app. Hosts can list properties, manage bookings, set prices, and track availability. Guests can search for stays, filter by location or amenities, make bookings, and leave reviews. The admin panel allows you to monitor listings, users, and payments with ease.
 
 ### 2. Building the Right Features
 
